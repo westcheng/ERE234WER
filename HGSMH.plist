@@ -11,7 +11,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://wyuq-ipa.oss-cn-shanghai.aliyuncs.com/app/2019/06/23/95JWAJ/HKSMH-mobile_HXSMH_sign.ipa</string>
+     <string>https://github.com/westcheng/ERE234WER/blob/master/HKSMH-mobile_HXSMH_sign_resigned.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
