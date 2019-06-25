@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://github.com/westcheng/ERE234WER/blob/master/HKSMH.ipa</string>
+     <string>https://github.com/westcheng/ERE234WER/blob/master/HKSMH.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>https://x5.justep.com/apps/x5.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,7 +30,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>https://x5.justep.com/apps/x5.png</string>
     </dict>
    </array>
    <key>metadata</key>
