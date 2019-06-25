@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.HKSMH</string>
+				<string>org.cocos2d.HKSMH</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
